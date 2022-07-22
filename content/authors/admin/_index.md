@@ -1,12 +1,11 @@
 ---
 title: Safi Ahmed
 role: Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Deep Learning, Natural Language Processing,
+  Textile Materials
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Natural Language Processing
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,22 +26,19 @@ organizations:
     url: https://www.butex.edu.bd/
 education:
   courses:
-    - course: BSc in Textile Engineering(Fabric Engineering)
+    - course: BSc in Textile Engineering
       institution: Bangladesh University of Textiles
       year: ""
     - course: HSC
       institution: Shahid Syed Nazrul Islam College
-      year: 2017
+      year: 2018
     - course: SSC
       institution: Sarishabari R.U.T High School
-      year: 2015
+      year: 2016
 email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am in my sophomore year majoring in Fabric Engineering at Bangladesh University of Textiles. Although I am a student of Textile Engineering, I have a huge interest in Computer Science especially in Machine Learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
