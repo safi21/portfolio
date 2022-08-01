@@ -1,6 +1,7 @@
 ---
 title: Safi Ahmed
 role: Student
+avatar_filename: whatsapp-image-2022-04-16-at-7.28.25-pm.jpeg
 bio: My research interests include Deep Learning, Natural Language Processing,
   Textile Materials
 interests:
